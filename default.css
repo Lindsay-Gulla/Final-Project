@@ -4,10 +4,12 @@ http://www.freecsstemplates.org
 Released for free under a Creative Commons Attribution 2.5 License
 */
 
+
+
 body {
+	background-color: #FFC; 
 	margin: 0;
 	padding: 0;
-	background: #FFFFFF;
 	font: normal small Arial, Helvetica, sans-serif;
 	color: #999999;
 }
